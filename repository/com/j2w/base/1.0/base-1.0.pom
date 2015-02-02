@@ -5,5 +5,13 @@
   <groupId>com.j2w</groupId>
   <artifactId>base</artifactId>
   <version>1.0</version>
-  <packaging>apk</packaging>
+  <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>appcompat-v7</artifactId>
+      <version>21.0.3</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
