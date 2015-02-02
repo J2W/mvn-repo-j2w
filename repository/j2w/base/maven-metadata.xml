@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>j2w.base</groupId>
+  <groupId>j2w</groupId>
   <artifactId>base</artifactId>
   <version>1.0</version>
   <versioning>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20150202133154</lastUpdated>
+    <lastUpdated>20150202141640</lastUpdated>
   </versioning>
 </metadata>
