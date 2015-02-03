@@ -16,8 +16,8 @@
   </dependencies>
   <repositories>
       <repository>
-          <id>base</id>
-          <url>https://raw.githubusercontent.com/J2W/mvn-repo-j2w/master</url>
+          <id>mvn-repo-j2w</id>
+          <url>https://raw.githubusercontent.com/J2W/mvn-repo-j2w/master/repository</url>
       </repository>
   </repositories>
 </project>
