@@ -14,10 +14,4 @@
       <scope>compile</scope>
     </dependency>
   </dependencies>
-  <repositories>
-      <repository>
-          <id>mvn-repo-j2w</id>
-          <url>https://raw.githubusercontent.com/J2W/mvn-repo-j2w/master/repository</url>
-      </repository>
-  </repositories>
 </project>
