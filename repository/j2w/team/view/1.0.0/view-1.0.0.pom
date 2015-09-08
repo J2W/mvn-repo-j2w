@@ -9,8 +9,14 @@
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
-      <version>21.0.+</version>
+      <artifactId>recyclerview-v7</artifactId>
+      <version>22.2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>cardview-v7</artifactId>
+      <version>22.2.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
