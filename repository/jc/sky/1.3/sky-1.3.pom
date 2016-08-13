@@ -10,31 +10,31 @@
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
-      <version>22.2.1</version>
+      <version>24.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>cardview-v7</artifactId>
-      <version>22.2.1</version>
+      <version>24.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>design</artifactId>
-      <version>22.2.1</version>
+      <version>24.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>recyclerview-v7</artifactId>
-      <version>22.2.1</version>
+      <version>24.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>support-v4</artifactId>
-      <version>22.2.1</version>
+      <version>24.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
